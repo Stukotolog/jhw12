@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         int amount = 5555;
 
@@ -7,6 +7,6 @@ public class Main {
 
         int bonus = amount / mile;
 
-
-        System.out.println("ваши бонусные мили: " + bonus);}
+        System.out.println("ваши бонусные мили: " + bonus);
+    }
 }
